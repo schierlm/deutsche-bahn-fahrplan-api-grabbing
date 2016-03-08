@@ -1,0 +1,599 @@
+Latitude	Longitude	ISO2	Timezone	State	ZipCode	City
+41.900492	12.502790	IT	Europe/Rome	Lazio	00185	Rome
+41.901867	12.470654	IT	Europe/Rome	Lazio	00193	Rome
+42.723931	12.126753	IT	Europe/Rome	UMB	05018	Orvieto
+43.002471	11.957900	IT	Europe/Rome	Tuscany	53043	Chiusi
+43.303816	5.381949	FR	Europe/Paris	Provence-Alpes-Côte d'Azur	13232	Marseille
+43.455167	5.317227	FR	Europe/Paris	Provence-Alpes-Côte d'Azur	13480	Cabriès
+43.461073	11.875388	IT	Europe/Rome	Tuscany	52100	Arezzo
+43.765834	11.249928	IT	Europe/Rome	Tuscany	50125	Florence
+43.776810	11.247806	IT	Europe/Rome	Tuscany	50123	Florence
+43.921932	4.786045	FR	Europe/Paris	Provence-Alpes-Côte d'Azur	84000	Avignon
+43.939569	4.800329	FR	Europe/Paris	Provence-Alpes-Côte d'Azur	84000	Avignon
+44.506141	11.343406	IT	Europe/Rome	Emilia-Romagna	40121	Bologna
+45.417827	11.880620	IT	Europe/Rome	Veneto	35137	Padua
+45.428659	10.982741	IT	Europe/Rome	Veneto	37122	Verona
+45.437576	10.701181	IT	Europe/Rome	Veneto	37019	Peschiera del Garda
+45.441397	12.320462	IT	Europe/Rome	Veneto	30121	Venice
+45.444426	12.315491	IT	Europe/Rome	Veneto	30121	Venice
+45.462477	9.207596	IT	Europe/Rome	Lombardy	20129	Milan
+45.462665	10.536274	IT	Europe/Rome	Lombardy	25150	Desenzano del Garda
+45.481902	12.231900	IT	Europe/Rome	Veneto	30171	Venice
+45.487143	9.204828	IT	Europe/Rome	Lombardy	20124	Milan
+45.532161	10.212869	IT	Europe/Rome	Lombardy	25122	Brescia
+45.541096	11.540774	IT	Europe/Rome	Veneto	36100	Vicenza
+45.552099	10.001362	IT	Europe/Rome	Lombardy	25038	Rovato
+45.659700	12.245132	IT	Europe/Rome	Veneto	31100	Treviso
+45.702255	4.863811	FR	Europe/Paris	Auvergne-Rhône-Alpes	69190	Saint-Fons
+45.760568	4.859991	FR	Europe/Paris	Auvergne-Rhône-Alpes	69003	Lyon
+45.780910	12.831202	IT	Europe/Rome	Veneto	30026	Portogruaro
+45.804453	15.978478	HR	Europe/Belgrade	-	10000	Zagreb
+45.807411	15.990290	HR	Europe/Belgrade	-	1000	Zagreb
+45.884664	12.299104	IT	Europe/Rome	Veneto	31015	Conegliano
+45.890956	11.033602	IT	Europe/Rome	Trentino-Alto Adige - Südtirol	38068	Rovereto
+45.892251	15.698626	HR	Europe/Belgrade	-	10292	Sveti Križ
+45.898804	15.654552	SI	Europe/Belgrade	-	8257	Brežice
+45.956227	15.493286	SI	Europe/Belgrade	-	8270	Krško
+45.956353	12.653683	IT	Europe/Rome	Friuli Venezia Giulia	33170	Pordenone
+46.009461	15.301024	SI	Europe/Belgrade	-	8290	Sevnica
+46.055783	13.242162	IT	Europe/Rome	Friuli Venezia Giulia	33100	Udine
+46.058686	14.512940	SI	Europe/Belgrade	-	1000	Ljubljana
+46.072287	11.118901	IT	Europe/Rome	Trentino-Alto Adige - Südtirol	38122	Trento
+46.085267	15.170708	SI	Europe/Belgrade	-	1431	Hrastnik
+46.239010	14.348168	SI	Europe/Belgrade	-	4000	Kranj
+46.360427	14.157632	SI	Europe/Belgrade	-	4248	Radovljica
+46.436350	14.053304	SI	Europe/Belgrade	-	4270	Jesenice
+46.481413	14.020331	AT	Europe/Vienna	Carinthia	-	St. Jakob im Rosental
+46.496380	11.358787	IT	Europe/Rome	Trentino-Alto Adige - Südtirol	I-39100	Bolzano
+46.506358	13.607214	IT	Europe/Rome	Friuli Venezia Giulia	33018	Tarvisio
+46.534845	13.640537	AT	Europe/Vienna	Carinthia	9602	Marktgemeinde Arnoldstein
+46.615586	14.313568	AT	Europe/Vienna	Carinthia	9020	Klagenfurt (Stadt)
+46.618624	13.848538	AT	Europe/Vienna	Carinthia	9501	Gemeinde Villach (Stadt)
+46.620053	14.044836	AT	Europe/Vienna	Carinthia	9220	Velden am Wörther See
+46.626337	14.221510	AT	Europe/Vienna	Carinthia	9201	Gemeinde Krumpendorf am Wörthersee
+46.636198	14.146234	AT	Europe/Vienna	Carinthia	9210	Gemeinde Pörtschach am Wörthersee
+46.682627	7.851439	CH	Europe/Zurich	Bern	3800	Interlaken
+46.686394	7.680095	CH	Europe/Zurich	Bern	3700	Spiez
+46.690691	7.868977	CH	Europe/Zurich	Bern	3800	Interlaken
+46.709892	11.649768	IT	Europe/Rome	Trentino-Alto Adige - Südtirol	39042	Brixen
+46.754856	7.629576	CH	Europe/Zurich	Bern	3600	Thun
+46.781742	4.843396	FR	Europe/Paris	Burgundy	71100	Chalon-sur-Saône
+46.788718	11.610080	IT	Europe/Rome	Trentino-Alto Adige - Südtirol	39045	Franzensfeste - Fortezza
+46.795703	13.487415	AT	Europe/Vienna	Carinthia	9800	Spittal an der Drau
+46.853440	9.528475	CH	Europe/Zurich	Graubünden - Grigioni - Grischun	7000	Chur
+46.949113	7.438483	CH	Europe/Zurich	Bern	3007	Bern
+46.967451	9.554059	CH	Europe/Zurich	Graubünden - Grigioni - Grischun	7302	Landquart
+46.981671	13.176424	AT	Europe/Vienna	Carinthia	9822	Gemeinde Mallnitz
+47.002338	11.505428	IT	Europe/Rome	Trentino-Alto Adige - Südtirol	-	Brenner - Brennero
+47.044794	9.446269	CH	Europe/Zurich	Sankt Gallen	7320	Sargans
+47.072301	15.416437	AT	Europe/Vienna	Styria	8020	Graz
+47.111745	13.131999	AT	Europe/Vienna	Salzburg (state)	5640	Bad Gastein
+47.127566	10.266993	AT	Europe/Vienna	Tyrol	6580	Sankt Anton am Arlberg
+47.131719	10.120370	AT	Europe/Vienna	Vorarlberg	6754	Klösterle
+47.148242	10.578388	AT	Europe/Vienna	Tyrol	6500	Landeck
+47.154723	9.814566	AT	Europe/Vienna	Vorarlberg	6700	Bludenz
+47.195714	13.100941	AT	Europe/Vienna	Salzburg (state)	5630	Bad Hofgastein
+47.219077	10.761669	AT	Europe/Vienna	Tyrol	6471	Arzl im Pitztal
+47.238484	10.859113	AT	Europe/Vienna	Tyrol	6430	Haiming
+47.238673	13.103063	AT	Europe/Vienna	Salzburg (state)	5632	Dorfgastein
+47.240974	9.604102	AT	Europe/Vienna	Vorarlberg	6800	Feldkirch
+47.263277	11.401000	AT	Europe/Vienna	Tyrol	6013	Innsbruck
+47.300708	11.078872	AT	Europe/Vienna	Tyrol	6405	Pfaffenhofen
+47.307557	5.952674	FR	Europe/Paris	Bourgogne-Franche-Comté	25870	Les Auxons
+47.318533	13.154463	AT	Europe/Vienna	Salzburg (state)	5620	Gemeinde Schwarzach im Pongau
+47.320520	12.796567	AT	Europe/Vienna	Salzburg (state)	5700	Zell am See
+47.328727	11.189484	AT	Europe/Vienna	Tyrol	6100	Seefeld in Tirol
+47.346625	15.009189	AT	Europe/Vienna	Styria	8770	Sankt Michael in Obersteiermark
+47.348377	13.194960	AT	Europe/Vienna	Salzburg (state)	5600	Sankt Johann im Pongau
+47.352009	7.907621	CH	Europe/Zurich	Solothurn	4601	Olten
+47.378186	8.539203	CH	Europe/Zurich	Zurich	CH-8005	Zurich
+47.378968	8.540534	CH	Europe/Zurich	Zurich	CH-8005	Zurich
+47.384235	13.467809	AT	Europe/Vienna	Salzburg (state)	5550	Radstadt
+47.386600	15.089607	AT	Europe/Vienna	Styria	8701	Leoben
+47.388451	11.778457	AT	Europe/Vienna	Tyrol	6200	Jenbach
+47.391148	8.051323	CH	Europe/Zurich	Aargau	5000	Aarau
+47.391301	8.170583	CH	Europe/Zurich	Aargau	5600	Lenzburg
+47.393827	13.678148	AT	Europe/Vienna	Styria	8970	Schladming
+47.411032	10.278095	DE	Europe/Berlin	Free State of Bavaria	87561	Oberstdorf
+47.411635	9.253504	CH	Europe/Zurich	Sankt Gallen	9200	Gossau (SG)
+47.417693	9.738805	AT	Europe/Vienna	Vorarlberg	6850	Dornbirn
+47.417855	13.219887	AT	Europe/Vienna	Salzburg (state)	5500	Bischofshofen
+47.423276	9.369303	CH	Europe/Zurich	Sankt Gallen	9001	St. Gallen
+47.426853	12.829764	AT	Europe/Vienna	Salzburg (state)	5760	Saalfelden am Steinernen Meer
+47.440031	11.265704	DE	Europe/Berlin	Free State of Bavaria	82481	Mittenwald
+47.441110	12.222902	AT	Europe/Vienna	Tyrol	6363	Westendorf
+47.443384	12.389859	AT	Europe/Vienna	Tyrol	6370	Kitzbühel
+47.448922	12.309100	AT	Europe/Vienna	Tyrol	6365	Kirchberg in Tirol
+47.449227	12.260549	AT	Europe/Vienna	Tyrol	6364	Brixen im Thale
+47.450279	8.562333	CH	Europe/Zurich	Zurich	8302	Kloten
+47.453353	9.638413	CH	Europe/Zurich	Sankt Gallen	9430	St. Margrethen
+47.454109	12.391045	AT	Europe/Vienna	Tyrol	6370	Kitzbühel
+47.455349	12.149181	AT	Europe/Vienna	Tyrol	6361	Hopfgarten im Brixental
+47.456590	10.271712	DE	Europe/Berlin	Free State of Bavaria	87538	Fischen im Allgäu
+47.462343	9.040190	CH	Europe/Zurich	Sankt Gallen	9500	Wil (SG)
+47.462747	7.812021	CH	Europe/Zurich	Basel-Landschaft	4450	Sissach
+47.464356	19.020455	HU	Europe/Budapest	-	1503	Budapest
+47.467709	12.626527	AT	Europe/Vienna	Tyrol	6395	Hochfilzen
+47.472599	13.195184	AT	Europe/Vienna	Salzburg (state)	5450	Werfen
+47.476465	8.307408	CH	Europe/Zurich	Aargau	5408	Baden
+47.484375	7.731352	CH	Europe/Zurich	Basel-Landschaft	4410	Liestal
+47.491135	12.528940	AT	Europe/Vienna	Tyrol	6391	Fieberbrunn
+47.491450	11.097012	DE	Europe/Berlin	Free State of Bavaria	82467	Garmisch-Partenkirchen
+47.491800	12.060584	AT	Europe/Vienna	Tyrol	6300	Wörgl
+47.500385	19.085069	HU	Europe/Budapest	-	1076	Budapest
+47.500511	8.723482	CH	Europe/Zurich	Zurich	8400	Winterthur
+47.503001	9.739623	AT	Europe/Vienna	Vorarlberg	6900	Bregenz
+47.513240	10.272342	DE	Europe/Berlin	Free State of Bavaria	87527	Sonthofen
+47.519550	19.054084	HU	Europe/Budapest	-	1133	Budapest
+47.519622	12.430778	AT	Europe/Vienna	Tyrol	6380	St. Johann in Tirol
+47.527227	14.367171	AT	Europe/Vienna	Styria	8786	Rottenmann
+47.529195	14.106753	AT	Europe/Vienna	Styria	8950	Stainach-Pürgg
+47.544342	9.680465	DE	Europe/Berlin	Free State of Bavaria	88131	Lindau (Bodensee)
+47.547075	7.589169	CH	Europe/Zurich	Basel-City	4002	Basel
+47.547830	7.588828	CH	Europe/Zurich	Basel-City	4002	Basel
+47.550239	14.312840	AT	Europe/Vienna	Styria	8900	Selzthal
+47.559201	10.214002	DE	Europe/Berlin	Free State of Bavaria	87509	Immenstadt im Allgäu
+47.559273	11.139270	DE	Europe/Berlin	Free State of Bavaria	82496	Oberau
+47.562707	14.241888	AT	Europe/Vienna	Styria	8940	Liezen
+47.567292	7.607804	CH	Europe/Zurich	Basel-City	4058	Basel
+47.583077	12.165551	AT	Europe/Vienna	Tyrol	6330	Kufstein
+47.584929	18.393610	HU	Europe/Budapest	-	2800	Tatabánya
+47.585935	6.897629	FR	Europe/Paris	Bourgogne-Franche-Comté	90400	Meroux
+47.593972	7.608415	DE	Europe/Berlin	Baden-Württemberg	79576	Weil am Rhein
+47.600579	13.164082	AT	Europe/Vienna	Salzburg (state)	5440	Golling an der Salzach
+47.626683	12.999058	DE	Europe/Berlin	Free State of Bavaria	83471	Berchtesgaden
+47.651889	12.960143	DE	Europe/Berlin	Free State of Bavaria	83483	Bischofswiesen
+47.653220	9.473902	DE	Europe/Berlin	Baden-Württemberg	88045	Friedrichshafen
+47.658757	9.177312	DE	Europe/Berlin	Baden-Württemberg	78462	Konstanz
+47.681985	17.634795	HU	Europe/Budapest	-	9021	Győr
+47.682264	11.192630	DE	Europe/Berlin	Free State of Bavaria	82418	Murnau
+47.685167	13.099431	AT	Europe/Vienna	Salzburg (state)	5400	Hallein
+47.698921	8.632898	CH	Europe/Zurich	Schaffhausen	8202	Schaffhausen
+47.699757	9.558391	DE	Europe/Berlin	Baden-Württemberg	88074	Meckenbeuren
+47.711748	10.317611	DE	Europe/Berlin	Free State of Bavaria	87435,87437,87439	Kempten (Allgäu)
+47.718535	12.874000	DE	Europe/Berlin	Free State of Bavaria	83435	Bad Reichenhall
+47.720378	12.895070	DE	Europe/Berlin	Free State of Bavaria	83457	Bayerisch Gmain
+47.731165	12.881820	DE	Europe/Berlin	Free State of Bavaria	83435	Bad Reichenhall
+47.735875	8.968987	DE	Europe/Berlin	Baden-Württemberg	78315	Radolfzell am Bodensee
+47.741952	7.343045	FR	Europe/Paris	Alsace	68100;68200	Mulhouse
+47.758438	8.840378	DE	Europe/Berlin	Baden-Württemberg	78224	Singen (Hohentwiel)
+47.759544	12.911530	DE	Europe/Berlin	Free State of Bavaria	83451	Piding
+47.770223	13.078486	AT	Europe/Vienna	Salzburg (state)	5061	Elsbethen
+47.782727	19.133063	HU	Europe/Budapest	-	2600	Vác
+47.784480	9.606097	DE	Europe/Berlin	Baden-Württemberg	88214	Ravensburg
+47.790889	18.958798	HU	Europe/Budapest	-	2626	Nagymaros
+47.795878	12.946129	DE	Europe/Berlin	Free State of Bavaria	83404	Ainring
+47.800121	18.679917	SK	Europe/Bratislava	Region of Nitra	94301	District of Nové Zámky
+47.809740	7.599327	DE	Europe/Berlin	Baden-Württemberg	79379	Müllheim
+47.813048	13.045820	AT	Europe/Vienna	Salzburg (state)	5020	Salzburg
+47.815034	12.964503	DE	Europe/Berlin	Free State of Bavaria	83404	Ainring
+47.820994	18.862056	HU	Europe/Budapest	-	2628	Szob
+47.824896	18.844770	SK	Europe/Bratislava	Region of Nitra	-	District of Nové Zámky
+47.836914	12.977196	DE	Europe/Berlin	Free State of Bavaria	83395	Freilassing
+47.850020	12.119202	DE	Europe/Berlin	Free State of Bavaria	83022	Rosenheim
+47.850353	17.266426	HU	Europe/Budapest	-	9200	Mosonmagyaróvár
+47.855513	12.346612	DE	Europe/Berlin	Free State of Bavaria	83209	Prien am Chiemsee
+47.869725	12.638797	DE	Europe/Berlin	Free State of Bavaria	83278	Traunstein
+47.875433	10.629492	DE	Europe/Berlin	Free State of Bavaria	87600	Kaufbeuren
+47.905061	12.301558	DE	Europe/Berlin	Free State of Bavaria	83093	Bad Endorf
+47.907138	11.272886	DE	Europe/Berlin	Free State of Bavaria	82327	Tutzing
+47.913502	17.147022	HU	Europe/Budapest	-	9222	Hegyeshalom
+47.919723	7.697633	DE	Europe/Berlin	Baden-Württemberg	79189	Bad Krozingen
+47.936002	8.729532	DE	Europe/Berlin	Baden-Württemberg	78194	Immendingen
+47.938492	17.095451	AT	Europe/Vienna	Burgenland	2425	Nickelsdorf
+47.947787	8.498923	DE	Europe/Berlin	Baden-Württemberg	78166	Donaueschingen
+47.953055	9.644050	DE	Europe/Berlin	Baden-Württemberg	88326	Aulendorf
+47.980580	8.798542	DE	Europe/Berlin	Baden-Württemberg	78532	Tuttlingen
+47.985578	10.186854	DE	Europe/Berlin	Free State of Bavaria	87700	Memmingen
+47.994999	18.173959	SK	Europe/Bratislava	Region of Nitra	94001	Nové Zámky
+47.997695	7.841173	DE	Europe/Berlin	Baden-Württemberg	79098	Freiburg im Breisgau
+48.010064	13.663702	AT	Europe/Vienna	Upper Austria	4840	Vöcklabruck
+48.012797	13.720721	AT	Europe/Vienna	Upper Austria	4800	Attnang-Puchheim
+48.033724	10.716220	DE	Europe/Berlin	Free State of Bavaria	86807	Buchloe
+48.058022	8.465258	DE	Europe/Berlin	Baden-Württemberg	78048	Villingen-Schwenningen
+48.101844	9.793127	DE	Europe/Berlin	Baden-Württemberg	88400	Biberach an der Riß
+48.120901	16.563074	AT	Europe/Vienna	Lower Austria	2320	Gemeinde Schwechat
+48.121603	14.878109	AT	Europe/Vienna	Lower Austria	3302	Amstetten (Stadt)
+48.123814	8.341953	DE	Europe/Berlin	Baden-Württemberg	78112	Sankt Georgen im Schwarzwald
+48.127437	11.604975	DE	Europe/Berlin	Free State of Bavaria	81667	Munich
+48.140003	8.236806	DE	Europe/Berlin	Baden-Württemberg	78098	Triberg im Schwarzwald
+48.140093	11.555372	DE	Europe/Berlin	Free State of Bavaria	80335	Munich
+48.140228	11.558338	DE	Europe/Berlin	Free State of Bavaria	80335	Munich
+48.149892	11.461489	DE	Europe/Berlin	Free State of Bavaria	81241	Munich
+48.154135	17.097851	SK	Europe/Bratislava	Region of Bratislava	811 04	District of Bratislava I
+48.158908	17.106463	SK	Europe/Bratislava	Region of Bratislava	810 04	Nové Mesto
+48.165299	8.639298	DE	Europe/Berlin	Baden-Württemberg	78628	Rottweil
+48.166081	14.026570	AT	Europe/Vienna	Upper Austria	4600	Wels
+48.174450	16.333085	AT	Europe/Vienna	Vienna	1120	Vienna
+48.176626	16.392872	AT	Europe/Vienna	Vienna	1100	Vienna
+48.184923	16.375864	AT	Europe/Vienna	Vienna	1100	Vienna
+48.207036	16.341553	AT	Europe/Vienna	Vienna	1070	Vienna
+48.208304	15.624672	AT	Europe/Vienna	Lower Austria	3100	Sankt Pölten
+48.211890	8.232941	DE	Europe/Berlin	Baden-Württemberg	78132	Hornberg
+48.284928	8.181666	DE	Europe/Berlin	Baden-Württemberg	77756	Hausach
+48.290177	14.292129	AT	Europe/Vienna	Upper Austria	4020	Linz (Stadt)
+48.340436	7.834737	DE	Europe/Berlin	Baden-Württemberg	77933	Lahr/Schwarzwald
+48.365444	10.885568	DE	Europe/Berlin	Free State of Bavaria	86150	Augsburg
+48.393041	10.004823	DE	Europe/Berlin	Free State of Bavaria	89231	Neu-Ulm
+48.399432	9.982224	DE	Europe/Berlin	Baden-Württemberg	89073	Ulm
+48.441475	8.688982	DE	Europe/Berlin	Baden-Württemberg	72160	Horb am Neckar
+48.460334	10.278652	DE	Europe/Berlin	Free State of Bavaria	89312	Günzburg
+48.476479	7.946724	DE	Europe/Berlin	Baden-Württemberg	77652	Offenburg
+48.479949	8.782236	DE	Europe/Berlin	Baden-Württemberg	72184	Eutingen im Gäu
+48.496075	9.209116	DE	Europe/Berlin	Baden-Württemberg	72764	Reutlingen
+48.515807	9.055409	DE	Europe/Berlin	Baden-Württemberg	72072	Tübingen
+48.539727	9.290153	DE	Europe/Berlin	Baden-Württemberg	72555	Metzingen
+48.573634	13.450775	DE	Europe/Berlin	Free State of Bavaria	94032	Passau
+48.577742	7.799238	FR	Europe/Paris	Alsace	67000;67100;67200	Strasbourg
+48.585338	7.734067	FR	Europe/Paris	Alsace	67000;67100;67200	Strasbourg
+48.619353	9.841938	DE	Europe/Berlin	Baden-Württemberg	73312	Geislingen an der Steige
+48.628001	9.342650	DE	Europe/Berlin	Baden-Württemberg	72622	Nürtingen
+48.661890	17.047691	SK	Europe/Bratislava	Region of Trnava	908 01	Kúty
+48.687761	9.004126	DE	Europe/Berlin	Baden-Württemberg	71034	Böblingen
+48.700022	9.651969	DE	Europe/Berlin	Baden-Württemberg	73037	Göppingen
+48.711367	16.999905	CZ	Europe/Prague	Southeast	-	Lanžhot
+48.712553	16.868401	CZ	Europe/Prague	Southeast	69141	Břeclav
+48.713084	9.410807	DE	Europe/Berlin	Baden-Württemberg	73207	Plochingen
+48.714028	10.771441	DE	Europe/Berlin	Free State of Bavaria	86609	Donauwörth
+48.738811	9.300077	DE	Europe/Berlin	Baden-Württemberg	73728	Esslingen am Neckar
+48.744537	11.437335	DE	Europe/Berlin	Free State of Bavaria	85051	Ingolstadt
+48.753904	16.893239	CZ	Europe/Prague	Southeast	69002	Břeclav
+48.779622	12.863941	DE	Europe/Berlin	Free State of Bavaria	94447	Plattling
+48.784081	9.181636	DE	Europe/Berlin	Baden-Württemberg	70173	Stuttgart
+48.790328	8.190827	DE	Europe/Berlin	Baden-Württemberg	76532	Cité
+48.801007	9.787796	DE	Europe/Berlin	Baden-Württemberg	73525	Schwäbisch Gmünd
+48.807147	9.526309	DE	Europe/Berlin	Baden-Württemberg	73614	Schorndorf
+48.841009	10.096270	DE	Europe/Berlin	Baden-Württemberg	73430	Aalen
+48.860480	8.215619	DE	Europe/Berlin	Baden-Württemberg	76437	Rastatt
+48.861496	2.333680	FR	Europe/Paris	Ile-de-France	75001	Paris
+48.876975	12.574093	DE	Europe/Berlin	Free State of Bavaria	94315	Straubing
+48.876975	2.359120	FR	Europe/Paris	Ile-de-France	75010	Paris
+48.891861	9.185420	DE	Europe/Berlin	Baden-Württemberg	71638	Ludwigsburg
+48.894154	8.703095	DE	Europe/Berlin	Baden-Württemberg	75177	Pforzheim
+48.947406	6.169692	FR	Europe/Paris	Lorraine	57420	Louvigny
+48.948116	8.957633	DE	Europe/Berlin	Baden-Württemberg	71665	Vaihingen an der Enz
+48.953195	8.846104	DE	Europe/Berlin	Baden-Württemberg	75417	Mühlacker
+48.961267	10.908158	DE	Europe/Berlin	Free State of Bavaria	91757	Treuchtlingen
+48.964117	10.129683	DE	Europe/Berlin	Baden-Württemberg	73479	Ellwangen (Jagst)
+48.993511	8.402181	DE	Europe/Berlin	Baden-Württemberg	76137	Karlsruhe
+49.002330	8.462822	DE	Europe/Berlin	Baden-Württemberg	76227	Karlsruhe
+49.011669	12.099615	DE	Europe/Berlin	Free State of Bavaria	93047	Rgbg
+49.120448	10.755467	DE	Europe/Berlin	Free State of Bavaria	91710	Gunzenhausen
+49.124619	8.589651	DE	Europe/Berlin	Baden-Württemberg	76646	Bruchsal
+49.137869	10.064322	DE	Europe/Berlin	Baden-Württemberg	74564	Crailsheim
+49.189215	6.900254	FR	Europe/Paris	Lorraine	57600	Forbach
+49.190537	16.612775	CZ	Europe/Prague	Southeast	60200	Brno
+49.214089	6.944310	FR	Europe/Paris	Lorraine	57350	Stiring-Wendel
+49.241065	6.991018	DE	Europe/Berlin	Saarland	66111	Saarbrücken
+49.273220	11.456985	DE	Europe/Berlin	Free State of Bavaria	92318	Neumarkt
+49.291351	8.664145	DE	Europe/Berlin	Baden-Württemberg	69168	Wiesloch
+49.298030	10.578236	DE	Europe/Berlin	Free State of Bavaria	91522	Ansbach
+49.328081	7.337031	DE	Europe/Berlin	Saarland	66424	Homburg
+49.349556	8.140757	DE	Europe/Berlin	Rhineland-Palatinate	67434	Neustadt
+49.403563	8.675444	DE	Europe/Berlin	Baden-Württemberg	69115	Heidelberg
+49.416283	7.565932	DE	Europe/Berlin	Rhineland-Palatinate	66849	Landstuhl
+49.436140	7.768711	DE	Europe/Berlin	Rhineland-Palatinate	67655	Kaiserslautern
+49.445615	11.082989	DE	Europe/Berlin	Free State of Bavaria	90402	Nuremberg
+49.450748	11.077955	DE	Europe/Berlin	Free State of Bavaria	90402	Nuremberg
+49.453220	10.273537	DE	Europe/Berlin	Free State of Bavaria	91605	Gallmersgarten
+49.469706	10.989987	DE	Europe/Berlin	Free State of Bavaria	90762	Fürth
+49.477985	8.433400	DE	Europe/Berlin	Rhineland-Palatinate	67059	Ludwigshafen am Rhein
+49.479351	8.468917	DE	Europe/Berlin	Baden-Württemberg	68163	Mannheim
+49.553306	8.665349	DE	Europe/Berlin	Baden-Württemberg	69469	Weinheim
+49.595896	11.001906	DE	Europe/Berlin	Free State of Bavaria	91054	Erlangen
+49.599717	6.134391	LU	Europe/Luxembourg	-	1616	Luxembourg
+49.634937	8.356444	DE	Europe/Berlin	Rhineland-Palatinate	67547	Worms
+49.641553	8.633374	DE	Europe/Berlin	Hesse	64646	Heppenheim
+49.681330	8.616717	DE	Europe/Berlin	Hesse	64625	Bensheim
+49.801794	9.935777	DE	Europe/Berlin	Free State of Bavaria	97070	Würzburg
+49.872503	8.629635	DE	Europe/Berlin	Hesse	64293	Darmstadt
+49.900757	10.899492	DE	Europe/Berlin	Free State of Bavaria	96050	Bamberg
+49.968724	7.884258	DE	Europe/Berlin	Rhineland-Palatinate	55411	Bingen am Rhein
+49.976886	7.915415	DE	Europe/Berlin	Hesse	65385	Rüdesheim am Rhein
+49.980554	9.143692	DE	Europe/Berlin	Free State of Bavaria	63739	Aschaffenburg
+49.985327	7.867359	DE	Europe/Berlin	Hesse	65385	Rüdesheim am Rhein
+50.001112	8.258722	DE	Europe/Berlin	Rhineland-Palatinate	55116	Mainz
+50.025437	15.214278	CZ	Europe/Prague	Central Bohemia	28002	Kolín
+50.027558	8.121529	DE	Europe/Berlin	Hesse	65343	Eltville am Rhein
+50.031738	15.756211	CZ	Europe/Prague	Northeast	53009	Pardubice
+50.051209	8.570971	DE	Europe/Berlin	Hesse	60549	Frankfurt
+50.051218	8.571250	DE	Europe/Berlin	Hesse	60549	Frankfurt
+50.053169	8.570180	DE	Europe/Berlin	Hesse	60549	Frankfurt
+50.070788	8.243728	DE	Europe/Berlin	Hesse	65189	Wiesbaden
+50.081925	14.451481	CZ	Europe/Prague	Prague	13000	Prague
+50.083058	14.436037	CZ	Europe/Prague	Prague	12000 Praha 7	Prague
+50.099265	8.760743	DE	Europe/Berlin	Hesse	63065	Offenbach am Main
+50.099364	8.686456	DE	Europe/Berlin	Hesse	60594	Frankfurt
+50.107149	8.663785	DE	Europe/Berlin	Hesse	60329	Frankfurt
+50.110214	14.440010	CZ	Europe/Prague	Prague	17000	Prague
+50.118862	8.639334	DE	Europe/Berlin	Hesse	60486	Frankfurt
+50.120956	8.929003	DE	Europe/Berlin	Hesse	63450	Hanau
+50.146450	11.059473	DE	Europe/Berlin	Free State of Bavaria	96215	Lichtenfels
+50.231416	7.586104	DE	Europe/Berlin	Rhineland-Palatinate	56154	Boppard
+50.332607	8.762055	DE	Europe/Berlin	Hesse	61169	Friedberg
+50.341174	9.510038	DE	Europe/Berlin	Hesse	36381	Schlüchtern
+50.350927	7.588342	DE	Europe/Berlin	Rhineland-Palatinate	56068	Koblenz
+50.382498	8.096107	DE	Europe/Berlin	Hesse	65552	Limburg
+50.434545	7.404837	DE	Europe/Berlin	Rhineland-Palatinate	56626	Andernach
+50.444838	7.825334	DE	Europe/Berlin	Rhineland-Palatinate	56410	Montabaur
+50.554722	9.683980	DE	Europe/Berlin	Hesse	36037	Fulda
+50.577213	7.229781	DE	Europe/Berlin	Rhineland-Palatinate	53424	Remagen
+50.579056	8.661466	DE	Europe/Berlin	Hesse	35392	Gießen
+50.624361	5.566480	BE	Europe/Brussels	Wallonia	4000	Liège
+50.650313	11.374986	DE	Europe/Berlin	Thuringia	07318	Saalfeld/Saale
+50.659563	14.044728	CZ	Europe/Prague	Northwest	40003	Ústí nad Labem
+50.673272	9.762456	DE	Europe/Berlin	Hesse	36088	Hünfeld
+50.731917	6.045407	DE	Europe/Berlin	North Rhine-Westphalia	52074	Aachen
+50.732007	7.097136	DE	Europe/Berlin	North Rhine-Westphalia	53111	Bonn
+50.738479	7.127654	DE	Europe/Berlin	North Rhine-Westphalia	53225	Bonn
+50.767802	6.091495	DE	Europe/Berlin	North Rhine-Westphalia	52064	Aachen
+50.773411	14.201248	CZ	Europe/Prague	Northwest	40502	Děčín
+50.793916	7.203029	DE	Europe/Berlin	North Rhine-Westphalia	53721	Siegburg
+50.809512	6.482454	DE	Europe/Berlin	North Rhine-Westphalia	52353	Düren
+50.819274	8.775017	DE	Europe/Berlin	Hesse	35037	Marburg
+50.825432	9.015281	DE	Europe/Berlin	Hesse	35260	Stadtallendorf
+50.835374	4.335695	BE	Europe/Brussels	Brussels-Capital	1060	Saint-Gilles - Sint-Gillis
+50.860058	14.222130	DE	Europe/Berlin	Saxony	01814	Reinhardtsdorf-Schöna
+50.860238	4.361458	BE	Europe/Brussels	Brussels-Capital	1030	Schaerbeek - Schaarbeek
+50.869632	9.716179	DE	Europe/Berlin	Hesse	36251	Bad Hersfeld
+50.870917	6.094488	DE	Europe/Berlin	North Rhine-Westphalia	52134	Herzogenrath
+50.878900	7.119303	DE	Europe/Berlin	North Rhine-Westphalia	51147	Grengel
+50.883943	11.593540	DE	Europe/Berlin	Thuringia	07745	Jena
+50.910659	9.185672	DE	Europe/Berlin	Hesse	34613	Schwalmstadt
+50.918839	14.139321	DE	Europe/Berlin	Saxony	01814	Bad Schandau
+50.924008	11.582726	DE	Europe/Berlin	Thuringia	07743	Jena
+50.924853	11.587464	DE	Europe/Berlin	Thuringia	07743	Jena
+50.939074	10.712570	DE	Europe/Berlin	Thuringia	99867	Gotha
+50.940871	6.975000	DE	Europe/Berlin	North Rhine-Westphalia	50679	Cologne
+50.941312	6.967206	DE	Europe/Berlin	North Rhine-Westphalia	50667-51149	Cologne
+50.941716	6.974065	DE	Europe/Berlin	North Rhine-Westphalia	50667-51149	Cologne
+50.943029	6.958729	DE	Europe/Berlin	North Rhine-Westphalia	50667	Cologne
+50.961034	6.124521	DE	Europe/Berlin	North Rhine-Westphalia	52511	Geilenkirchen
+50.969565	9.797783	DE	Europe/Berlin	Hesse	36179	Bebra
+50.972549	11.038501	DE	Europe/Berlin	Thuringia	99084	Erfurt
+50.976918	10.331985	DE	Europe/Berlin	Thuringia	99817	Eisenach
+50.991490	11.326462	DE	Europe/Berlin	Thuringia	99423	Weimar
+51.030943	11.526139	DE	Europe/Berlin	Thuringia	99510	Apolda
+51.040562	13.732038	DE	Europe/Berlin	Saxony	01069	Dresden
+51.065902	13.740704	DE	Europe/Berlin	Saxony	01097	Dresden
+51.103136	9.358040	DE	Europe/Berlin	Hesse	34590	Wabern
+51.122813	13.579410	DE	Europe/Berlin	Saxony	01640	Coswig
+51.160766	7.004187	DE	Europe/Berlin	North Rhine-Westphalia	42697	Suppenheide
+51.163031	6.439566	DE	Europe/Berlin	North Rhine-Westphalia	41236	Rheydt
+51.163067	11.796984	DE	Europe/Berlin	Saxony-Anhalt	06618	Naumburg
+51.196579	6.446110	DE	Europe/Berlin	North Rhine-Westphalia	41061	Mönchengladbach
+51.204354	6.684522	DE	Europe/Berlin	North Rhine-Westphalia	41460	Neuss
+51.204615	11.970925	DE	Europe/Berlin	Saxony-Anhalt	06667	Weißenfels
+51.219960	6.794316	DE	Europe/Berlin	North Rhine-Westphalia	40210	Düsseldorf
+51.254361	7.149543	DE	Europe/Berlin	North Rhine-Westphalia	42119	Elberfeld
+51.254946	6.403897	DE	Europe/Berlin	North Rhine-Westphalia	41747	Viersen
+51.277706	6.767286	DE	Europe/Berlin	North Rhine-Westphalia	40474	Düsseldorf
+51.292008	6.786837	DE	Europe/Berlin	North Rhine-Westphalia	40474	Düsseldorf
+51.309654	13.287737	DE	Europe/Berlin	Saxony	01587	Riesa
+51.313115	9.446898	DE	Europe/Berlin	Hesse	34131	Kassel
+51.315946	9.470378	DE	Europe/Berlin	Hesse	34119	Kassel
+51.325718	6.569883	DE	Europe/Berlin	North Rhine-Westphalia	47798	Krefeld
+51.340999	6.192578	de	Europe/Amsterdam	North Rhine-Westphalia	41334	Nettetal
+51.346546	12.383333	DE	Europe/Berlin	Saxony	04103	Leipzig
+51.362744	7.460246	DE	Europe/Berlin	North Rhine-Westphalia	58089	Hagen
+51.364407	6.171840	NL	Europe/Amsterdam	Province of Limburg	5913AA	Venlo
+51.396148	12.389274	DE	Europe/Berlin	Saxony	04356	Leipzig
+51.423340	12.223423	DE	Europe/Berlin	Saxony	04435	Schkeuditz
+51.429786	6.775906	DE	Europe/Berlin	North Rhine-Westphalia	47051	Duisburg
+51.431341	6.886510	DE	Europe/Berlin	North Rhine-Westphalia	45468	Mülheim an der Ruhr
+51.451351	7.014795	DE	Europe/Berlin	North Rhine-Westphalia	45127	Essen
+51.459666	13.516827	DE	Europe/Berlin	Brandenburg	04910	Elsterwerda
+51.459675	13.516432	DE	Europe/Berlin	Brandenburg	04910	Elsterwerda
+51.474876	6.851587	DE	Europe/Berlin	North Rhine-Westphalia	46045	Oberhausen
+51.477509	11.987088	DE	Europe/Berlin	Saxony-Anhalt	06112	Halle (Saale)
+51.478606	7.223273	DE	Europe/Berlin	North Rhine-Westphalia	44787	Bochum
+51.492953	9.163846	DE	Europe/Berlin	North Rhine-Westphalia	34414	Warburg
+51.504900	7.102458	DE	Europe/Berlin	North Rhine-Westphalia	45879	Gelsenkirchen
+51.517898	7.459293	DE	Europe/Berlin	North Rhine-Westphalia	44147	Dortmund
+51.531256	7.165787	DE	Europe/Berlin	North Rhine-Westphalia	44652	Herne
+51.536811	9.926068	DE	Europe/Berlin	Lower Saxony	37073	Göttingen
+51.578422	8.104593	DE	Europe/Berlin	North Rhine-Westphalia	59494	Soest
+51.616357	7.203487	DE	Europe/Berlin	North Rhine-Westphalia	45657	Recklinghausen
+51.622856	12.316848	DE	Europe/Berlin	Saxony-Anhalt	06749	Bitterfeld-Wolfen
+51.670688	8.348785	DE	Europe/Berlin	North Rhine-Westphalia	59555	Lippstadt
+51.678077	7.807823	DE	Europe/Berlin	North Rhine-Westphalia	59077	Lerche
+51.703139	9.986620	DE	Europe/Berlin	Lower Saxony	37154	Northeim
+51.712982	8.740508	DE	Europe/Berlin	North Rhine-Westphalia	33102	Paderborn
+51.750952	14.324158	DE	Europe/Berlin	Brandenburg	03048	Cottbus/Chóśebuz
+51.751932	11.989353	DE	Europe/Berlin	Saxony-Anhalt	06369	Köthen
+51.766432	8.943323	DE	Europe/Berlin	North Rhine-Westphalia	33184	Altenbeken
+51.839865	12.234948	DE	Europe/Berlin	Saxony-Anhalt	06842	Dessau-Roßlau
+51.851425	9.967796	DE	Europe/Berlin	Lower Saxony	37574	Einbeck
+51.862167	13.960903	DE	Europe/Berlin	Brandenburg	03222	Lübbenau/Spreewald
+51.867812	12.662286	DE	Europe/Berlin	Saxony-Anhalt	06886	Wittenberg
+51.901261	6.137358	NL	Europe/Amsterdam	Gelderland	6909DH	Zevenaar
+51.906942	8.385074	DE	Europe/Berlin	North Rhine-Westphalia	33330	Gütersloh
+51.939735	13.877178	DE	Europe/Berlin	Brandenburg	15907	Lübben (Spreewald)
+51.956563	7.635716	DE	Europe/Berlin	North Rhine-Westphalia	48143	Münster
+51.981418	9.817775	DE	Europe/Berlin	Lower Saxony	31061	Alfeld (Leine)
+51.984780	5.901004	NL	Europe/Amsterdam	Gelderland	6811KJ	Arnhem
+52.029258	8.532722	DE	Europe/Berlin	North Rhine-Westphalia	33602	Bielefeld
+52.074142	23.601223	PL	Europe/Warsaw	Lublin Voivodeship	-	Terespol
+52.089396	5.109864	NL	Europe/Amsterdam	Utrecht	3521AZ	Utrecht
+52.098898	23.673856	BY	Europe/Minsk	Brest Region	224004	Brest
+52.100435	23.680679	BY	Europe/Minsk	Brest Region	224004	Brest
+52.119609	8.663641	DE	Europe/Berlin	North Rhine-Westphalia	32052	Herford
+52.120148	9.746895	DE	Europe/Berlin	Lower Saxony	31008	Elze
+52.130351	11.626890	DE	Europe/Berlin	Saxony-Anhalt	39104	Magdeburg
+52.153642	5.373239	NL	Europe/Amsterdam	Utrecht	3818LE	Amersfoort
+52.160627	9.953494	DE	Europe/Berlin	Lower Saxony	31137	Hildesheim
+52.202076	8.573875	DE	Europe/Berlin	North Rhine-Westphalia	32257	Bünde
+52.205393	8.796520	DE	Europe/Berlin	North Rhine-Westphalia	32545	Bad Oeynhausen
+52.209429	5.967489	NL	Europe/Amsterdam	Gelderland	7311NW	Apeldoorn
+52.219974	20.965244	PL	Europe/Warsaw	Masovian Voivodeship	02-353	Warsaw
+52.222086	11.010554	DE	Europe/Berlin	Lower Saxony	38350	Helmstedt
+52.224729	21.001417	PL	Europe/Warsaw	Masovian Voivodeship	02-007	Warsaw
+52.226670	5.181400	NL	Europe/Amsterdam	North Holland	1211EX	Hilversum
+52.226958	19.348615	PL	Europe/Warsaw	Łódź Voivodeship	99-310	Kutno
+52.228864	21.003233	PL	Europe/Warsaw	Masovian Voivodeship	00-024	Warsaw
+52.231399	18.253333	PL	Europe/Warsaw	Greater Poland Voivodeship	-	Konin
+52.242509	15.818093	PL	Europe/Warsaw	Lubusz Voivodeship	-	Zbąszynek
+52.245143	15.539535	PL	Europe/Warsaw	Lubusz Voivodeship	66-200	Świebodzin
+52.251544	21.052332	PL	Europe/Warsaw	Masovian Voivodeship	03-802	Warsaw
+52.252218	10.540292	DE	Europe/Berlin	Lower Saxony	38102	Brunswick
+52.257432	6.160505	NL	Europe/Amsterdam	Overijssel	7411 HB	Deventer
+52.261854	6.793723	NL	Europe/Amsterdam	Overijssel	7551CN	Hengelo
+52.272848	8.061777	DE	Europe/Berlin	Lower Saxony	49084	Osnabrück
+52.276300	7.434258	DE	Europe/Berlin	North Rhine-Westphalia	48431	Rheine
+52.276866	7.721482	DE	Europe/Berlin	North Rhine-Westphalia	49477	Ibbenbüren
+52.290134	8.934729	DE	Europe/Berlin	North Rhine-Westphalia	32423	Minden
+52.296634	13.631476	DE	Europe/Berlin	Brandenburg	15711	Königs Wusterhausen
+52.308787	4.761487	NL	Europe/Amsterdam	North Holland	1118AP	Haarlemmermeer
+52.309111	7.039758	DE	Europe/Berlin	Lower Saxony	48455	Bad Bentheim
+52.309848	7.158541	DE	Europe/Berlin	Lower Saxony	48455	Bad Bentheim
+52.316895	9.792866	DE	Europe/Berlin	Lower Saxony	30880	Laatzen
+52.318945	10.232142	DE	Europe/Berlin	Lower Saxony	31224	Peine
+52.321174	14.576404	DE	Europe/Berlin	Brandenburg	15236	Frankfurt (Oder)
+52.323161	9.798206	DE	Europe/Berlin	Lower Saxony	30521	Hanover
+52.323556	4.936552	NL	Europe/Amsterdam	North Holland	1115BZ	Ouder-Amstel
+52.336420	14.546497	DE	Europe/Berlin	Brandenburg	15236	Frankfurt (Oder)
+52.350218	14.815076	PL	Europe/Warsaw	Lubusz Voivodeship	-	Rzepin
+52.357284	6.654813	NL	Europe/Amsterdam	Overijssel	7604TZ	Almelo
+52.375244	5.218768	NL	Europe/Amsterdam	Flevoland	1315KT	Almere
+52.376763	9.741016	DE	Europe/Berlin	Lower Saxony	30159	Hanover
+52.379190	4.899426	NL	Europe/Amsterdam	North Holland	1012AB	Amsterdam
+52.391703	13.066782	DE	Europe/Berlin	Brandenburg	14473	Potsdam
+52.400558	12.566137	DE	Europe/Berlin	Brandenburg	14776	Brandenburg an der Havel
+52.401996	16.910866	PL	Europe/Warsaw	Greater Poland Voivodeship	61-586	Poznań
+52.410248	16.905365	PL	Europe/Warsaw	Greater Poland Voivodeship	60-841	Poznań
+52.421053	13.179336	DE	Europe/Berlin	Berlin	14109	Wannsee
+52.429494	10.787783	DE	Europe/Berlin	Lower Saxony	38440	Wolfsburg
+52.440281	9.725429	DE	Europe/Berlin	Lower Saxony	30853	Langenhagen
+52.475042	13.365314	DE	Europe/Berlin	Berlin	10829	Schöneberg
+52.509894	13.496925	DE	Europe/Berlin	Berlin	10317	Rummelsburg
+52.510972	13.434567	DE	Europe/Berlin	Berlin	10243	Fhain
+52.519863	7.321731	DE	Europe/Berlin	Lower Saxony	49808	Lingen (Ems)
+52.520501	13.386987	DE	Europe/Berlin	Berlin	10117	Berlin
+52.525589	13.369548	DE	Europe/Berlin	Berlin	10557	Moabit
+52.529652	17.602182	PL	Europe/Warsaw	Greater Poland Voivodeship	62-210	Gniezno
+52.534470	13.197530	DE	Europe/Berlin	Berlin	13597	Spandau
+52.548961	13.388515	DE	Europe/Berlin	Berlin	13357	Gesundbrunnen
+52.594725	11.854407	DE	Europe/Berlin	Saxony-Anhalt	39576	Stendal
+52.604775	8.380337	DE	Europe/Berlin	Lower Saxony	49356	Diepholz
+52.621171	10.062704	DE	Europe/Berlin	Lower Saxony	29221	Celle
+52.645568	9.217754	DE	Europe/Berlin	Lower Saxony	31582	Nienburg (Weser)
+52.675834	13.592292	DE	Europe/Berlin	Brandenburg	16321	Bernau
+52.696024	7.298018	DE	Europe/Berlin	Lower Saxony	49716	Meppen
+52.804947	18.244057	PL	Europe/Warsaw	Kuyavian-Pomeranian Voivodeship	88-110	Inowrocław
+52.834018	13.797057	DE	Europe/Berlin	Brandenburg	16225	Eberswalde
+52.920818	9.237854	DE	Europe/Berlin	Lower Saxony	27283	Verden (Aller)
+52.969782	10.553057	DE	Europe/Berlin	Lower Saxony	29525	Uelzen
+53.003114	11.762870	DE	Europe/Berlin	Brandenburg	19322	Wittenberge
+53.015222	13.996357	DE	Europe/Berlin	Brandenburg	16278	Angermünde
+53.052788	8.629761	DE	Europe/Berlin	Lower Saxony	27749	Delmenhorst
+53.078246	10.574137	DE	Europe/Berlin	Lower Saxony	29549	Bad Bevensen
+53.083477	8.813833	DE	Europe/Berlin	Free and Hanseatic City of Bremen	28195	Bremen
+53.089707	7.386705	DE	Europe/Berlin	Lower Saxony	26871	Papenburg
+53.109429	8.460952	DE	Europe/Berlin	Lower Saxony	27798	Hude (Oldenburg)
+53.118751	26.046334	BY	Europe/Minsk	Brest Region	225404	Барановичи
+53.135111	17.991640	PL	Europe/Warsaw	Kuyavian-Pomeranian Voivodeship	85-059	Bydgoszcz
+53.142608	26.027079	BY	Europe/Minsk	Brest Region	225408	Барановичи
+53.144325	8.222711	DE	Europe/Berlin	Lower Saxony	26123	Oldenburg
+53.182547	8.003123	DE	Europe/Berlin	Lower Saxony	26160	Bad Zwischenahn
+53.202162	7.886470	DE	Europe/Berlin	Lower Saxony	26655	Westerstede
+53.220886	7.759659	DE	Europe/Berlin	Lower Saxony	26689	Apen
+53.231647	7.465280	DE	Europe/Berlin	Lower Saxony	26789	Leer
+53.249652	10.419891	DE	Europe/Berlin	Lower Saxony	21337	Lüneburg
+53.321611	13.866535	DE	Europe/Berlin	Brandenburg	17291	Prenzlau
+53.334672	11.494488	DE	Europe/Berlin	Mecklenburg-Vorpommern	19288	Ludwigslust
+53.344470	7.186174	DE	Europe/Berlin	Lower Saxony	26723	Emden
+53.359257	13.074603	DE	Europe/Berlin	Mecklenburg-Vorpommern	17235	Neustrelitz
+53.369038	7.195172	DE	Europe/Berlin	Lower Saxony	26723	Emden
+53.455909	9.991698	DE	Europe/Berlin	Hamburg	21079	Hamburg
+53.474976	10.623299	DE	Europe/Berlin	Schleswig-Holstein	21514	Büchen
+53.489835	10.206172	DE	Europe/Berlin	Hamburg	21029	Hamburg
+53.515355	13.988878	DE	Europe/Berlin	Mecklenburg-Vorpommern	17309	Pasewalk
+53.520892	7.270727	DE	Europe/Berlin	Lower Saxony	26529	Marienhafe
+53.521513	12.680678	DE	Europe/Berlin	Mecklenburg-Vorpommern	17192	Waren (Müritz)
+53.552696	9.935174	DE	Europe/Berlin	Hamburg	22765	Hamburg
+53.552732	10.006908	DE	Europe/Berlin	Hamburg	20099	Hamburg
+53.557110	9.997434	DE	Europe/Berlin	Hamburg	20095	Hamburg
+53.560751	9.989568	DE	Europe/Berlin	Hamburg	20354	Hamburg
+53.588195	7.218913	DE	Europe/Berlin	Lower Saxony	26506	Norden
+53.621581	7.160825	DE	Europe/Berlin	Lower Saxony	26506	Norden
+53.624313	7.158802	DE	Europe/Berlin	Lower Saxony	26506	Norden
+53.634741	11.407455	DE	Europe/Berlin	Mecklenburg-Vorpommern	19053	Schwerin
+53.766972	11.466927	DE	Europe/Berlin	Mecklenburg-Vorpommern	23996	Bad Kleinen
+53.837115	11.998190	DE	Europe/Berlin	Mecklenburg-Vorpommern	18246	Bützow
+53.856100	13.701825	DE	Europe/Berlin	Mecklenburg-Vorpommern	17389	Anklam
+53.867543	10.669818	DE	Europe/Berlin	Schleswig-Holstein	23558	Lübeck
+53.868712	27.651025	BY	Europe/Minsk	-	220021	Minsk
+53.890736	27.550643	BY	Europe/Minsk	-	220006	Minsk
+53.923870	9.510290	DE	Europe/Berlin	Schleswig-Holstein	25524	Itzehoe
+53.973877	13.548191	DE	Europe/Berlin	Mecklenburg-Vorpommern	17495	Züssow
+53.994210	10.762272	DE	Europe/Berlin	Schleswig-Holstein	23669	Timmendorfer Strand
+54.018742	10.745759	DE	Europe/Berlin	Schleswig-Holstein	23683	Scharbeutz
+54.054186	10.742684	DE	Europe/Berlin	Schleswig-Holstein	23683	Scharbeutz
+54.068524	10.769104	DE	Europe/Berlin	Schleswig-Holstein	23730	Sierksdorf
+54.075752	9.979815	DE	Europe/Berlin	Schleswig-Holstein	24534	Neumünster
+54.078242	12.131077	DE	Europe/Berlin	Mecklenburg-Vorpommern	18055	Rostock
+54.092921	13.370258	DE	Europe/Berlin	Mecklenburg-Vorpommern	17489	Greifswald
+54.097317	18.790151	PL	Europe/Warsaw	Pomeranian Voivodeship	-	Tczew
+54.176853	12.091273	DE	Europe/Berlin	Mecklenburg-Vorpommern	18119	Rostock
+54.193564	9.101029	DE	Europe/Berlin	Schleswig-Holstein	25746	Heide
+54.239175	12.436962	DE	Europe/Berlin	Mecklenburg-Vorpommern	18311	Ribnitz-Damgarten
+54.277317	12.803138	DE	Europe/Berlin	Mecklenburg-Vorpommern	18469	Velgast
+54.283825	10.882835	DE	Europe/Berlin	Schleswig-Holstein	23758	Oldenburg in Holstein
+54.302262	9.671134	DE	Europe/Berlin	Schleswig-Holstein	24768	Rendsburg
+54.308626	13.077318	DE	Europe/Berlin	Mecklenburg-Vorpommern	18437	Stralsund
+54.314982	10.131975	DE	Europe/Berlin	Schleswig-Holstein	24114	Kiel
+54.355523	18.643807	PL	Europe/Warsaw	Pomeranian Voivodeship	80-895	Gdańsk
+54.365842	18.643960	PL	Europe/Warsaw	Pomeranian Voivodeship	80-201	Gdańsk
+54.381861	18.605432	PL	Europe/Warsaw	Pomeranian Voivodeship	80-264	Gdańsk
+54.404820	13.600508	DE	Europe/Berlin	Mecklenburg-Vorpommern	18609	Binz
+54.409890	18.571740	PL	Europe/Warsaw	Pomeranian Voivodeship	80-321	Gdańsk
+54.420497	13.417820	DE	Europe/Berlin	Mecklenburg-Vorpommern	18528	Bergen auf Rügen
+54.440165	18.562320	PL	Europe/Warsaw	Pomeranian Voivodeship	81-835	Sopot
+54.443590	11.188981	DE	Europe/Berlin	Schleswig-Holstein	23769	Fehmarn
+54.444984	13.564057	DE	Europe/Berlin	Mecklenburg-Vorpommern	18609	Binz
+54.472275	9.055022	DE	Europe/Berlin	Schleswig-Holstein	25813	Husum
+54.499458	9.538139	DE	Europe/Berlin	Schleswig-Holstein	24837	Schleswig
+54.500366	11.226717	DE	Europe/Berlin	Schleswig-Holstein	23769	Fehmarn
+54.502047	11.227904	DE	Europe/Berlin	Schleswig-Holstein	23769	Fehmarn
+54.520834	30.374883	BY	Europe/Minsk	Vitebsk Region	211381	Orsha
+54.520843	18.529554	PL	Europe/Warsaw	Pomeranian Voivodeship	81-324	Gdynia
+54.541528	18.473551	PL	Europe/Warsaw	Pomeranian Voivodeship	81-041	Gdynia
+54.655232	11.354841	DK	Europe/Copenhagen	Region Zealand	4970	Rødbyhavn
+54.655718	11.357466	DK	Europe/Copenhagen	Region Zealand	4970	Rødbyhavn
+54.707073	31.002033	RU	Europe/Moscow	Smolensk Oblast	-	Красновское сельское поселение
+54.766833	11.877770	DK	Europe/Copenhagen	Region Zealand	4800	Nykøbing Falster
+54.774043	9.436525	DE	Europe/Berlin	Schleswig-Holstein	24937,24939,24941,24943,24944	Flensburg
+54.789603	8.834571	DE	Europe/Berlin	Schleswig-Holstein	25899	Niebüll
+54.798340	32.034462	RU	Europe/Moscow	Smolensk Oblast	214015	Smolensk
+54.806350	9.425540	DE	Europe/Berlin	Schleswig-Holstein	24939	Flensburg
+54.824247	9.358804	DK	Europe/Copenhagen	Region of Southern Denmark	6330	Padborg
+54.906840	8.310922	DE	Europe/Berlin	Schleswig-Holstein	25980	Sylt
+54.936172	9.258233	DK	Europe/Copenhagen	Region of Southern Denmark	6360	Tinglev
+54.939076	11.867756	DK	Europe/Copenhagen	Region Zealand	4840	Gåbense
+55.012517	11.899416	DK	Europe/Copenhagen	Region Zealand	4760	Vordingborg
+55.069689	9.332753	DK	Europe/Copenhagen	Region of Southern Denmark	6230	Rødekro
+55.197390	34.317551	RU	Europe/Moscow	Smolensk Oblast	215100	Вяземское городское поселение
+55.231872	11.766924	DK	Europe/Copenhagen	Region Zealand	4700	Næstved
+55.248475	9.304914	DK	Europe/Copenhagen	Region of Southern Denmark	6500	Vojens
+55.314070	10.802921	DK	Europe/Copenhagen	Region of Southern Denmark	5800	Nyborg
+55.357200	11.135126	DK	Europe/Copenhagen	Region Zealand	4220	Halsskov
+55.401777	10.386001	DK	Europe/Copenhagen	Region of Southern Denmark	5000	Odense
+55.407548	11.348054	DK	Europe/Copenhagen	Region Zealand	4200	Slagelse
+55.419019	11.568793	DK	Europe/Copenhagen	Region Zealand	4180	Frederiksberg
+55.428089	9.286450	DK	Europe/Copenhagen	Region of Southern Denmark	6580	Vamdrup
+55.438040	11.786152	DK	Europe/Copenhagen	Region Zealand	4100	Ringsted
+55.480118	9.303790	DK	Europe/Copenhagen	Region of Southern Denmark	6640	Lunderskov
+55.490842	9.481525	DK	Europe/Copenhagen	Region of Southern Denmark	6000	Kolding
+55.501621	9.734661	DK	Europe/Copenhagen	Region of Southern Denmark	5500	Middelfart
+55.568087	9.738814	DK	Europe/Copenhagen	Region of Southern Denmark	7000	Sandal
+55.609230	13.001260	SE	Europe/Stockholm	Skåne	21220	Malmö
+55.629609	12.649377	DK	Europe/Copenhagen	Capital Region of Denmark	2270	Kastrup
+55.639012	12.088855	DK	Europe/Copenhagen	Region Zealand	4000	Roskilde
+55.648621	12.268801	DK	Europe/Copenhagen	Capital Region of Denmark	2630	Taastrup
+55.663795	12.514323	DK	Europe/Copenhagen	Capital Region of Denmark	2500	Valby
+55.672721	12.564618	DK	Europe/Copenhagen	Capital Region of Denmark	1570	Copenhagen
+55.683517	12.571863	DK	Europe/Copenhagen	Capital Region of Denmark	1361	Copenhagen
+55.688237	12.578425	DK	Europe/Copenhagen	Capital Region of Denmark	1307	Copenhagen
+55.692704	12.587612	DK	Europe/Copenhagen	Capital Region of Denmark	1327	Copenhagen
+55.776672	37.579809	RU	Europe/Moscow	Moscow	125040	Begovoy District
+55.790057	37.587899	RU	Europe/Moscow	Moscow	127055	Tverskoy District

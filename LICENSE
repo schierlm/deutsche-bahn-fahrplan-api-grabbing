@@ -1,0 +1,16 @@
+This data has been collected from Deutsche Bahn AG Fahrplan API.
+
+Data from this API are licensed under
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+(https://creativecommons.org/licenses/by/4.0/)
+
+
+The data in opencage.tsv and timezones.tsv has been merged against OpenCage API
+(https://geocoder.opencagedata.com/)
+
+Data from this service are licensed
+
+CC-BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)
++
+ODbL (http://opendatacommons.org/licenses/odbl/summary/)
